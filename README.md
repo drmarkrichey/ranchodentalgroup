@@ -1,2 +1,4 @@
-# ranchodentalgroup
-Website of the offices of Dr. Richey Rancho Dental Group in San Diego, all your needs for dental services.
+# ranchodentalgroup-master-site
+Master website for a San Diego based dental clinic Rancho Dental Group by Dr. Mark Richey
+
+website link: https://daviddadev.github.io/ranchodentalgroup-master-site/
